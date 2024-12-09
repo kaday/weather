@@ -1,6 +1,6 @@
 # Forecast
 ## Today
-Cloudy with a chance of pizza
+Cloudy with a chance of Sun.
 ###
-Rainbows at first then showers later
+Morning rainbows at first then light showers
 
