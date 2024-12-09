@@ -1,2 +1,8 @@
 *.png
 data/
+
+# ignore csv
+*.csv
+
+# oh no I want them to dont ignore csv files
+!*.csv
